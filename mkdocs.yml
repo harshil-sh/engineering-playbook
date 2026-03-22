@@ -1,9 +1,9 @@
 site_name: Harshil Shah — Engineering Playbook
 site_description: Personal engineering principles, patterns and best practices by Harshil Shah
 site_author: Harshil Shah
-site_url: https://harshilmayurshah.github.io/engineering-playbook
-repo_url: https://github.com/harshilmayurshah/engineering-playbook
-repo_name: harshilmayurshah/engineering-playbook
+site_url: https://harshil-sh.github.io/engineering-playbook
+repo_url: https://github.com/harshil-sh/engineering-playbook
+repo_name: harshil-sh/engineering-playbook
 
 nav:
   - Home: index.md
