@@ -1,0 +1,75 @@
+site_name: Harshil Shah — Engineering Playbook
+site_description: Personal engineering principles, patterns and best practices by Harshil Shah
+site_author: Harshil Shah
+site_url: https://harshilmayurshah.github.io/engineering-playbook
+repo_url: https://github.com/harshilmayurshah/engineering-playbook
+repo_name: harshilmayurshah/engineering-playbook
+
+nav:
+  - Home: index.md
+  - SOLID Principles: solid-principles.md
+  - System Design: system-design-patterns.md
+  - Python Best Practices: python-best-practices.md
+  - Code Review: code-review-guidelines.md
+  - ADRs: architecture-decision-records.md
+  - Engineering Principles: engineering-principles.md
+  - About: about.md
+
+theme:
+  name: material
+  language: en
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.integrate
+
+plugins:
+  - search
+  - mermaid2
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/harshilmayurshah
+      name: LinkedIn
+    - icon: fontawesome/brands/github
+      link: https://github.com/harshilmayurshah
+      name: GitHub
