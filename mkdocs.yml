@@ -68,8 +68,8 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/harshilmayurshah
+      link: https://www.linkedin.com/in/harshilmayurshah/
       name: LinkedIn
     - icon: fontawesome/brands/github
-      link: https://github.com/harshilmayurshah
+      link: https://github.com/harshil-sh
       name: GitHub
