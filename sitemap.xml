@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://harshil-sh.github.io/engineering-playbook/</loc>
+         <lastmod>2026-03-22</lastmod>
+    </url>
+    <url>
+         <loc>https://harshil-sh.github.io/engineering-playbook/about/</loc>
+         <lastmod>2026-03-22</lastmod>
+    </url>
+    <url>
+         <loc>https://harshil-sh.github.io/engineering-playbook/architecture-decision-records/</loc>
+         <lastmod>2026-03-22</lastmod>
+    </url>
+    <url>
+         <loc>https://harshil-sh.github.io/engineering-playbook/code-review-guidelines/</loc>
+         <lastmod>2026-03-22</lastmod>
+    </url>
+    <url>
+         <loc>https://harshil-sh.github.io/engineering-playbook/engineering-principles/</loc>
+         <lastmod>2026-03-22</lastmod>
+    </url>
+    <url>
+         <loc>https://harshil-sh.github.io/engineering-playbook/python-best-practices/</loc>
+         <lastmod>2026-03-22</lastmod>
+    </url>
+    <url>
+         <loc>https://harshil-sh.github.io/engineering-playbook/solid-principles/</loc>
+         <lastmod>2026-03-22</lastmod>
+    </url>
+    <url>
+         <loc>https://harshil-sh.github.io/engineering-playbook/system-design-patterns/</loc>
+         <lastmod>2026-03-22</lastmod>
+    </url>
+</urlset>
