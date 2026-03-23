@@ -55,7 +55,7 @@ These roles are most compelling when they combine hands-on technical work with a
 ## Contact and profiles
 
 - **LinkedIn:** [linkedin.com/in/harshilmayurshah](https://linkedin.com/in/harshilmayurshah)
-- **GitHub:** [github.com/harshilmayurshah](https://github.com/harshilmayurshah)
+- **GitHub:** [github.com/harshil-sh](https://github.com/harshil-sh)
 
 ## Working style
 
