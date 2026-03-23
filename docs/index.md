@@ -7,6 +7,7 @@
 Hello, I'm **Harshil Shah**, a **Senior Full Stack Engineer** focused on building reliable, maintainable, and scalable software. My core experience spans **.NET Core, C#, Python, React, Azure, and AWS**, with a delivery background that combines engineering excellence, product thinking, and operational pragmatism.
 
 This playbook is my personal reference for the standards I expect from production systems: clean design, thoughtful architecture, strong code review culture, and sustainable engineering habits.
+You can also follow my work on **GitHub** at [github.com/harshil-sh](https://github.com/harshil-sh).
 
 ## Why this playbook exists
 
