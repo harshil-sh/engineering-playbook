@@ -589,3 +589,9 @@ List the commands run and summarize the outcome.
 - [ ] Screenshots attached if the change affects UI or developer-facing output
 - [ ] Not applicable
 ```
+
+## Related sections
+
+- [Engineering Principles](engineering-principles.md) for the broader standards that should inform review feedback.
+- [SOLID Principles](solid-principles.md) for the design signals reviewers should look for in object-oriented code.
+- [Architecture Decision Records](architecture-decision-records.md) for documenting larger design choices that surface during review.

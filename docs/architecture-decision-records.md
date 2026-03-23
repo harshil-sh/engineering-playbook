@@ -25,3 +25,9 @@ What improves, what becomes harder, and what follow-up work exists?
 - Introducing a new platform capability
 - Setting a pattern other teams may follow
 - Making a decision that is hard to reverse later
+
+## Related sections
+
+- [System Design Patterns](system-design-patterns.md) for the kinds of decisions worth capturing in ADRs.
+- [Engineering Principles](engineering-principles.md) for the decision-making standards behind those records.
+- [Code Review Guidelines](code-review-guidelines.md) for how architectural changes should be reviewed in pull requests.

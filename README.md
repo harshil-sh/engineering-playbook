@@ -2,16 +2,19 @@
 
 A professional engineering playbook built with **MkDocs** and the **Material for MkDocs** theme. It captures my engineering principles, system design patterns, code quality practices, and architecture decision-making approach as a **Senior Full Stack Engineer**.
 
-![MkDocs](https://img.shields.io/badge/MkDocs-1.5%2B-526CFE?logo=materialformkdocs&logoColor=white)
-![Material for MkDocs](https://img.shields.io/badge/Material-9.0%2B-4051B5?logo=materialformkdocs&logoColor=white)
+![Live Site](https://img.shields.io/badge/Live%20Site-Engineering%20Playbook-0A66C2?logo=githubpages&logoColor=white&link=https%3A%2F%2Fharshil-sh.github.io%2Fengineering-playbook)
+[![MkDocs](https://img.shields.io/badge/MkDocs-1.5%2B-526CFE?logo=materialformkdocs&logoColor=white)](https://www.mkdocs.org/)
+[![Material for MkDocs](https://img.shields.io/badge/Material-9.0%2B-4051B5?logo=materialformkdocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-Core-512BD4?logo=dotnet&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-222222?logo=githubpages&logoColor=white)
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
-## Live site
+## Project snapshot
 
-**Engineering Playbook:** [https://harshil-sh.github.io/engineering-playbook](https://harshil-sh.github.io/engineering-playbook)
+- **Live site:** [harshil-sh.github.io/engineering-playbook](https://harshil-sh.github.io/engineering-playbook)
+- **Last updated:** 2026-03-23
+- **Section count:** 7 core sections, plus the landing page
 
 ## What this playbook covers
 
@@ -42,9 +45,8 @@ Then open `http://127.0.0.1:8000` in your browser.
 This repository reflects the engineering principles, standards, and patterns he uses to design software that is maintainable, scalable, and production ready.
 
 - LinkedIn: [linkedin.com/in/harshilmayurshah](https://linkedin.com/in/harshilmayurshah)
-- GitHub: [github.com/harshilmayurshah](https://github.com/harshilmayurshah)
+- GitHub: [github.com/harshil-sh](https://github.com/harshil-sh)
 
 ## License
 
 Released under the [MIT License](LICENSE).
-"." 
