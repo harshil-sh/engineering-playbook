@@ -13,6 +13,7 @@ nav:
   - Code Review: code-review-guidelines.md
   - ADRs: architecture-decision-records.md
   - Engineering Principles: engineering-principles.md
+  - Tech Stack Rubric: tech-stack-rubric.md
   - About: about.md
 
 theme:
