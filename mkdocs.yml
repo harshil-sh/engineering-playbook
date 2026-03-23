@@ -13,6 +13,9 @@ nav:
   - Code Review: code-review-guidelines.md
   - ADRs: architecture-decision-records.md
   - Engineering Principles: engineering-principles.md
+  - Playbook:
+      - Decision Frameworks:
+          - Monolith to Microservices Case Study: playbook/decision-frameworks/case-study-monolith-to-microservices.md
   - Tech Stack Rubric: tech-stack-rubric.md
   - About: about.md
 
