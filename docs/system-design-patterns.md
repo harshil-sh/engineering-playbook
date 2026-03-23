@@ -742,3 +742,9 @@ Use patterns deliberately and in combinations that match the system's real risks
 - **Microservices** amplify the importance of **idempotency**, **resilience patterns**, and **clear data ownership**.
 
 The best architecture is rarely the one with the most patterns. It is the one that solves the actual business and operational problem with the least irreversible complexity.
+
+## Related sections
+
+- [Architecture Decision Records](architecture-decision-records.md) for capturing the reasoning behind architecture choices.
+- [Engineering Principles](engineering-principles.md) for the principles used to judge whether a pattern fits.
+- [Code Review Guidelines](code-review-guidelines.md) for reviewing architecture-impacting changes safely.

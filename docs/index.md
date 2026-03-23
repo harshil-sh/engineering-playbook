@@ -17,19 +17,41 @@ I created this site for three reasons:
 2. **Document repeatable patterns** for system design, code quality, and technical decision-making.
 3. **Share a working reference** that reflects how I approach software as a senior engineer targeting **Senior, Lead, and Staff engineering roles** in the **UK, Netherlands, Germany, and Ireland**.
 
-## What this playbook covers
+## Contents
 
-This playbook is designed as a practical operating manual for day-to-day engineering work.
+This playbook contains seven core sections, each designed to be useful on its own and stronger when read together.
 
-| Area | What you will find | Why it matters |
+| Section | Link | One-line description |
 | --- | --- | --- |
-| SOLID Principles | Clear guidance on applying object-oriented design principles in production code | Improves maintainability and extensibility |
-| System Design | Patterns for scalability, reliability, observability, and service boundaries | Supports better technical decisions at scale |
-| Python Best Practices | Advice on readability, testing, packaging, and automation | Keeps Python systems clean and production ready |
-| Code Review | Review checklists, quality gates, and collaboration principles | Raises code quality while strengthening teams |
-| ADRs | Lightweight architectural decision records and templates | Preserves context behind important decisions |
-| Engineering Principles | Core beliefs about ownership, simplicity, performance, and delivery | Aligns technical execution with professional standards |
-| About | My background, achievements, and current focus | Adds context to the perspective behind this playbook |
+| SOLID Principles | [Open section](solid-principles.md) | Practical design principles for building maintainable, extensible software systems. |
+| System Design | [Open section](system-design-patterns.md) | Architectural patterns and trade-offs for reliability, scalability, and clear boundaries. |
+| Python Best Practices | [Open section](python-best-practices.md) | Production-minded Python guidance for structure, testing, tooling, and delivery. |
+| Code Review | [Open section](code-review-guidelines.md) | Review standards, feedback patterns, and quality gates for safe, collaborative shipping. |
+| ADRs | [Open section](architecture-decision-records.md) | A lightweight framework for recording important technical decisions and their consequences. |
+| Engineering Principles | [Open section](engineering-principles.md) | The core beliefs and standards that shape how I write, review, and operate software. |
+| About | [Open section](about.md) | Career background, achievements, technical strengths, and current direction. |
+
+## How to use this playbook
+
+You can use this site in whichever way best matches your workflow:
+
+- **As a reference** when designing a service, reviewing code, or defining engineering standards.
+- **As a coaching tool** for helping teams align on maintainability, design quality, and delivery discipline.
+- **As an interview preparation resource** for conversations around architecture, trade-offs, engineering leadership, and software craftsmanship.
+- **As a personal benchmark** for the technical bar I aim to uphold in every project.
+
+### Suggested reading paths
+
+- Start with [Engineering Principles](engineering-principles.md) if you want the mindset behind the rest of the playbook.
+- Continue to [SOLID Principles](solid-principles.md) and [Code Review Guidelines](code-review-guidelines.md) for day-to-day engineering practice.
+- Use [System Design Patterns](system-design-patterns.md) and [Architecture Decision Records](architecture-decision-records.md) when making larger technical decisions.
+- Refer to [Python Best Practices](python-best-practices.md) when working in Python-heavy services, tooling, or automation.
+- Visit [About](about.md) for the career context behind the perspectives captured here.
+
+## Living document notice
+
+!!! info "Living document"
+    This playbook is continuously updated as I learn from new systems, delivery challenges, architecture reviews, and production incidents. The guidance here is intended to stay practical and current rather than static.
 
 ## Technology stack
 
@@ -48,31 +70,6 @@ This playbook is designed as a practical operating manual for day-to-day enginee
 - **Asian Banker Award — Best Retail Banking Software** for work on the **HRMS platform for Axis Bank**.
 - Deep hands-on expertise across **enterprise backend systems**, **modern frontend applications**, and **cloud delivery practices**.
 - Strong alignment with high-impact engineering roles spanning **Senior**, **Lead**, and **Staff Engineer** expectations.
-
-## Explore the playbook
-
-| Section | Link |
-| --- | --- |
-| Home | [Open the landing page](index.md) |
-| SOLID Principles | [Explore design fundamentals](solid-principles.md) |
-| System Design | [Review architecture patterns](system-design-patterns.md) |
-| Python Best Practices | [Read Python guidance](python-best-practices.md) |
-| Code Review | [See review standards](code-review-guidelines.md) |
-| ADRs | [Use architecture decision records](architecture-decision-records.md) |
-| Engineering Principles | [Understand the operating principles](engineering-principles.md) |
-| About | [Learn more about my background](about.md) |
-
-## How to use this playbook
-
-You can use this site in whichever way best matches your workflow:
-
-- **As a reference** when designing a service, reviewing code, or defining engineering standards.
-- **As a coaching tool** for helping teams align on maintainability, design quality, and delivery discipline.
-- **As an interview preparation resource** for conversations around architecture, trade-offs, engineering leadership, and software craftsmanship.
-- **As a personal benchmark** for the technical bar I aim to uphold in every project.
-
-!!! tip "Suggested reading path"
-    Start with **Engineering Principles**, then move to **SOLID Principles** and **Code Review**, and finally use **System Design** and **ADRs** for architecture-focused decision making.
 
 ## A personal note on continuous learning
 

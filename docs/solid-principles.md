@@ -884,3 +884,9 @@ Use SOLID pragmatically:
 - apply DIP when business logic starts depending directly on technology choices.
 
 When used well, SOLID makes systems easier to evolve as policies change, integrations expand, and delivery teams grow.
+
+## Related sections
+
+- [Engineering Principles](engineering-principles.md) for the broader philosophy behind maintainable design.
+- [Code Review Guidelines](code-review-guidelines.md) for how to spot SOLID violations during review.
+- [System Design Patterns](system-design-patterns.md) for architectural trade-offs that build on good component boundaries.

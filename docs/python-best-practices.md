@@ -917,3 +917,9 @@ The main lesson for .NET engineers: do not rely on language-specific assumptions
 - When integrating Python and .NET, invest in **clear contracts and operational consistency** rather than language debates.
 
 Used well, Python becomes a strong companion to .NET rather than a replacement for it.
+
+## Related sections
+
+- [Code Review Guidelines](code-review-guidelines.md) for reviewing Python changes with the right quality bar.
+- [Engineering Principles](engineering-principles.md) for the underlying standards behind these conventions.
+- [System Design Patterns](system-design-patterns.md) for architecture concerns that shape Python services in production.

@@ -305,3 +305,9 @@ Beyond pairing, I prefer lightweight, repeatable knowledge sharing: architecture
 I know a junior engineer is ready for more scope when they start demonstrating judgment, not just productivity. The signs I look for are consistent: they ask better questions, they identify edge cases before being prompted, they can explain the business impact of their change, they seek feedback early on risky work, and they leave an area cleaner than they found it.
 
 Another strong signal is when they begin to think beyond their assigned ticket. If they notice a gap in observability, a missing test around a critical rule, or a naming problem that will confuse the next engineer, and they address it thoughtfully, that tells me they are moving from task execution toward engineering ownership. That is the transition I care about most.
+
+## Related sections
+
+- [SOLID Principles](solid-principles.md) for design principles that support these broader engineering beliefs.
+- [Code Review Guidelines](code-review-guidelines.md) for how these principles translate into day-to-day feedback and quality gates.
+- [System Design Patterns](system-design-patterns.md) for architecture patterns evaluated through this mindset.
