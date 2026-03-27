@@ -7,17 +7,35 @@ repo_name: harshil-sh/engineering-playbook
 
 nav:
   - Home: index.md
+  - Engineering Principles: engineering-principles.md
   - SOLID Principles: solid-principles.md
   - System Design: system-design-patterns.md
-  - Python Best Practices: python-best-practices.md
   - Code Review: code-review-guidelines.md
-  - ADRs: architecture-decision-records.md
-  - Engineering Principles: engineering-principles.md
   - Testing Strategy: testing-strategy.md
+  - Python Best Practices: python-best-practices.md
+  - ADRs: architecture-decision-records.md
   - Playbook:
       - Decision Frameworks:
-          - Monolith to Microservices Case Study: playbook/decision-frameworks/case-study-monolith-to-microservices.md
-  - Tech Stack Rubric: tech-stack-rubric.md
+          - Tech Stack Rubric: playbook/decision-frameworks/tech-stack-rubric.md
+          - ADR Template: playbook/decision-frameworks/adr-template.md
+          - Case Study — Monolith to Microservices: playbook/decision-frameworks/case-study-monolith-to-microservices.md
+      - AI Workflow:
+          - Philosophy: playbook/ai-workflow/philosophy.md
+          - Prompt Engineering Guide: playbook/ai-workflow/prompt-engineering-guide.md
+          - Governance: playbook/ai-workflow/governance.md
+      - Operational Excellence:
+          - Incident Response: playbook/operational-excellence/incident-response.md
+          - Post-Mortem Template: playbook/operational-excellence/post-mortem-template.md
+      - Developer Velocity:
+          - Local Dev Setup: playbook/developer-velocity/local-dev-setup.md
+          - DORA Metrics: playbook/developer-velocity/dora-metrics.md
+      - People:
+          - Product-Engineering Bridge: playbook/people/product-engineering-bridge.md
+          - Working with Me: playbook/people/working-with-me.md
+          - Mentorship and Code Review: playbook/people/mentorship-and-code-review.md
+      - Quality:
+          - Definition of Done: playbook/quality/definition-of-done.md
+          - Testing Philosophy: playbook/quality/testing-philosophy.md
   - About: about.md
 
 theme:
