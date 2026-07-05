@@ -8,7 +8,7 @@ Transform the Engineering Playbook into a portfolio asset demonstrating senior e
 - [x] Improve repository branding (banner, badges)
 - [x] Create docs/architecture-decision-framework.md
 - [x] Create docs/production-readiness-checklist.md
-- [ ] Create docs/software-craftsmanship.md
+- [x] Create docs/software-craftsmanship.md
 
 ## Phase 2 - AI-First Engineering
 - [ ] Create docs/ai-assisted-engineering.md
