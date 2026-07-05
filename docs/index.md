@@ -1,5 +1,7 @@
 # Harshil Shah — Engineering Playbook
 
+![AI-First Engineering Playbook banner](assets/engineering-playbook-banner.svg)
+
 > Practical engineering principles, delivery patterns, and architecture guidance shaped by 14 years of building software across regulated platforms, enterprise systems, and modern cloud applications.
 
 ## Welcome
