@@ -1,14 +1,16 @@
 # Harshil Shah — AI-First Engineering Playbook
 
+![AI-First Engineering Playbook banner](docs/assets/engineering-playbook-banner.svg)
+
 An **AI-first engineering playbook** built with **MkDocs** and the **Material for MkDocs** theme. It captures my engineering principles, system design patterns, code quality practices, and architecture decision-making approach as a **Senior .NET/Azure Engineer** focused on technical leadership, production readiness, and software craftsmanship.
 
-![Live Site](https://img.shields.io/badge/Live%20Site-Engineering%20Playbook-0A66C2?logo=githubpages&logoColor=white&link=https%3A%2F%2Fharshil-sh.github.io%2Fengineering-playbook)
+[![Live Site](https://img.shields.io/badge/Live%20Site-Engineering%20Playbook-0A66C2?logo=githubpages&logoColor=white)](https://harshil-sh.github.io/engineering-playbook)
 [![MkDocs](https://img.shields.io/badge/MkDocs-1.5%2B-526CFE?logo=materialformkdocs&logoColor=white)](https://www.mkdocs.org/)
 [![Material for MkDocs](https://img.shields.io/badge/Material-9.0%2B-4051B5?logo=materialformkdocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-Core-512BD4?logo=dotnet&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-222222?logo=githubpages&logoColor=white)
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+[![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![.NET](https://img.shields.io/badge/.NET-Core-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-222222?logo=githubpages&logoColor=white)](https://pages.github.com/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## Project snapshot
 
