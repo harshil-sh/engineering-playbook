@@ -9,6 +9,7 @@ nav:
   - Home: index.md
   - Engineering Principles: engineering-principles.md
   - Architecture Decision Framework: architecture-decision-framework.md
+  - Production Readiness Checklist: production-readiness-checklist.md
   - SOLID Principles: solid-principles.md
   - System Design: system-design-patterns.md
   - Code Review: code-review-guidelines.md
