@@ -10,6 +10,7 @@ nav:
   - Engineering Principles: engineering-principles.md
   - Architecture Decision Framework: architecture-decision-framework.md
   - Production Readiness Checklist: production-readiness-checklist.md
+  - Software Craftsmanship: software-craftsmanship.md
   - SOLID Principles: solid-principles.md
   - System Design: system-design-patterns.md
   - Code Review: code-review-guidelines.md
