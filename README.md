@@ -1,6 +1,6 @@
-# Harshil Shah — Engineering Playbook
+# Harshil Shah — AI-First Engineering Playbook
 
-A professional engineering playbook built with **MkDocs** and the **Material for MkDocs** theme. It captures my engineering principles, system design patterns, code quality practices, and architecture decision-making approach as a **Senior Full Stack Engineer**.
+An **AI-first engineering playbook** built with **MkDocs** and the **Material for MkDocs** theme. It captures my engineering principles, system design patterns, code quality practices, and architecture decision-making approach as a **Senior .NET/Azure Engineer** focused on technical leadership, production readiness, and software craftsmanship.
 
 ![Live Site](https://img.shields.io/badge/Live%20Site-Engineering%20Playbook-0A66C2?logo=githubpages&logoColor=white&link=https%3A%2F%2Fharshil-sh.github.io%2Fengineering-playbook)
 [![MkDocs](https://img.shields.io/badge/MkDocs-1.5%2B-526CFE?logo=materialformkdocs&logoColor=white)](https://www.mkdocs.org/)
