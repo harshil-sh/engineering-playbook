@@ -12,6 +12,7 @@ nav:
   - Production Readiness Checklist: production-readiness-checklist.md
   - Software Craftsmanship: software-craftsmanship.md
   - AI-Assisted Engineering: ai-assisted-engineering.md
+  - Agentic Development: agentic-development.md
   - SOLID Principles: solid-principles.md
   - System Design: system-design-patterns.md
   - Code Review: code-review-guidelines.md

@@ -12,7 +12,7 @@ Transform the Engineering Playbook into a portfolio asset demonstrating senior e
 
 ## Phase 2 - AI-First Engineering
 - [x] Create docs/ai-assisted-engineering.md
-- [ ] Create docs/agentic-development.md
+- [x] Create docs/agentic-development.md
 - [ ] Create docs/developer-productivity.md
 
 ## Phase 3 - Technical Leadership
