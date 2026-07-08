@@ -49,6 +49,17 @@ You can use this site in whichever way best matches your workflow:
 - Refer to [Python Best Practices](python-best-practices.md) when working in Python-heavy services, tooling, or automation.
 - Visit [About](about.md) for the career context behind the perspectives captured here.
 
+### Search guide
+
+Use site search with role, technology, and practice keywords rather than only page titles. The content is intentionally cross-linked around senior engineering themes such as **.NET**, **Azure**, **architecture**, **AI-assisted engineering**, **production readiness**, **code review**, **incident response**, and **mentoring**.
+
+| Search intent | Useful starting points |
+| --- | --- |
+| Architecture decisions and trade-offs | [Architecture Decision Framework](architecture-decision-framework.md), [Architecture Decision Records](architecture-decision-records.md), [Tech Stack Rubric](playbook/decision-frameworks/tech-stack-rubric.md) |
+| Production-ready Azure services | [Production Readiness Checklist](production-readiness-checklist.md), [System Design](system-design.md), [Incident Response](incident-response.md) |
+| AI-assisted engineering workflows | [AI-Assisted Engineering](ai-assisted-engineering.md), [Agentic Development](agentic-development.md), [AI Governance](playbook/ai-workflow/governance.md) |
+| Engineering leadership and quality | [Code Review Guide](code-review-guide.md), [Engineering Metrics](engineering-metrics.md), [Mentoring](mentoring.md) |
+
 ## Living document notice
 
 !!! info "Living document"

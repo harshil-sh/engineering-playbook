@@ -134,3 +134,5 @@ The engineer remains responsible for validating suggestions against system conte
 - [Engineering Principles](engineering-principles.md) for the engineering values behind these decisions.
 - [Testing Strategy](testing-strategy.md) for validating architectural choices through automated quality gates.
 - [Code Review Guidelines](code-review-guidelines.md) for reviewing implementation quality and trade-offs.
+- [Production Readiness Checklist](production-readiness-checklist.md) for converting design decisions into releasable operational controls.
+- [Architecture Decision Records](architecture-decision-records.md) for documenting durable technical decisions.

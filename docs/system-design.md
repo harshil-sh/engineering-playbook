@@ -147,3 +147,5 @@ Validate every AI-generated recommendation against production evidence, platform
 - [Architecture Decision Framework](architecture-decision-framework.md) for comparing options and recording trade-offs.
 - [Production Readiness Checklist](production-readiness-checklist.md) for validating release and operational readiness.
 - [AI-Assisted Engineering](ai-assisted-engineering.md) for using AI responsibly in technical design and delivery.
+- [Architecture Decision Records](architecture-decision-records.md) for documenting durable architecture choices.
+- [Incident Response](incident-response.md) for operating the system when production assumptions fail.
