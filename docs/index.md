@@ -21,17 +21,16 @@ I created this site for three reasons:
 
 ## Contents
 
-This playbook contains seven core sections, each designed to be useful on its own and stronger when read together.
+The playbook navigation is organised around how senior engineers move from principles to delivery: foundations, architecture, AI-enabled execution, technical leadership, and portfolio evidence.
 
-| Section | Link | One-line description |
+| Navigation area | Start here | One-line description |
 | --- | --- | --- |
-| SOLID Principles | [Open section](solid-principles.md) | Practical design principles for building maintainable, extensible software systems. |
-| System Design | [Open section](system-design-patterns.md) | Architectural patterns and trade-offs for reliability, scalability, and clear boundaries. |
-| Python Best Practices | [Open section](python-best-practices.md) | Production-minded Python guidance for structure, testing, tooling, and delivery. |
-| Code Review | [Open section](code-review-guidelines.md) | Review standards, feedback patterns, and quality gates for safe, collaborative shipping. |
-| ADRs | [Open section](architecture-decision-records.md) | A lightweight framework for recording important technical decisions and their consequences. |
-| Engineering Principles | [Open section](engineering-principles.md) | The core beliefs and standards that shape how I write, review, and operate software. |
-| About | [Open section](about.md) | Career background, achievements, technical strengths, and current direction. |
+| Foundations | [Engineering Principles](engineering-principles.md) | Core engineering standards for maintainable systems, software craftsmanship, testing, and pragmatic implementation. |
+| Architecture & Design | [Architecture Decision Framework](architecture-decision-framework.md) | Decision-making tools for system design, ADRs, production readiness, and scalable architecture trade-offs. |
+| AI-First Engineering | [AI-Assisted Engineering](ai-assisted-engineering.md) | Practical guidance for using AI tools safely across development, review, documentation, and productivity workflows. |
+| Technical Leadership | [Code Review Guide](code-review-guide.md) | Leadership practices for reviews, metrics, incidents, mentoring, and senior engineering communication. |
+| Portfolio Evidence | [Case Studies](case-studies.md) | Career context and delivery examples aligned to Senior .NET/Azure, technical leadership, and production engineering roles. |
+| Playbook | [Tech Stack Rubric](playbook/decision-frameworks/tech-stack-rubric.md) | Reusable templates, rubrics, and operating practices for teams building production software. |
 
 ## How to use this playbook
 
