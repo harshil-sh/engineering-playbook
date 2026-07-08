@@ -11,6 +11,7 @@ nav:
   - Architecture Decision Framework: architecture-decision-framework.md
   - Production Readiness Checklist: production-readiness-checklist.md
   - Software Craftsmanship: software-craftsmanship.md
+  - AI-Assisted Engineering: ai-assisted-engineering.md
   - SOLID Principles: solid-principles.md
   - System Design: system-design-patterns.md
   - Code Review: code-review-guidelines.md
