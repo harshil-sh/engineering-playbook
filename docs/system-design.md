@@ -61,6 +61,51 @@ A strong system design should describe the responsibilities and trade-offs acros
 - Use infrastructure as code and environment parity to reduce release risk.
 - Review cost drivers such as always-on compute, data transfer, retention, premium tiers, and over-provisioned capacity.
 
+## Mermaid architecture diagrams
+
+Use diagrams to make service boundaries, runtime flows, and operational ownership visible before implementation starts. These examples show the level of detail I expect in early design reviews: enough to expose coupling and failure modes, without pretending every implementation detail is final.
+
+### Azure-hosted service boundary
+
+```mermaid
+flowchart LR
+    User[User or partner system] --> FrontDoor[Azure Front Door / API gateway]
+    FrontDoor --> Api[ASP.NET Core API]
+    Api --> Domain[Application and domain services]
+    Domain --> Sql[(Azure SQL / PostgreSQL)]
+    Domain --> Bus[Azure Service Bus]
+    Bus --> Worker[.NET worker or Azure Function]
+    Worker --> External[External integration]
+    Api --> Insights[Application Insights]
+    Worker --> Insights
+    Domain --> KeyVault[Key Vault / Managed Identity]
+```
+
+This view is useful for discussing trust boundaries, operational ownership, observability, and which components must be deployable or scalable independently.
+
+### Reliable asynchronous workflow
+
+```mermaid
+sequenceDiagram
+    participant Client
+    participant API as ASP.NET Core API
+    participant DB as Transactional database
+    participant Bus as Azure Service Bus
+    participant Worker as Background worker
+    participant Monitor as Azure Monitor
+
+    Client->>API: Submit command with idempotency key
+    API->>DB: Save state and outbox record
+    API-->>Client: Return accepted response
+    DB->>Bus: Publish message from outbox processor
+    Bus->>Worker: Deliver message
+    Worker->>DB: Apply idempotent business update
+    Worker->>Monitor: Emit logs, metrics, and trace correlation
+    Worker-->>Bus: Complete or dead-letter after retry policy
+```
+
+This flow highlights production concerns that should appear in the design: idempotency, outbox publishing, retry limits, dead-letter handling, and correlated telemetry across synchronous and asynchronous work.
+
 ## Azure and .NET design considerations
 
 For .NET workloads on Azure, consider these defaults before introducing more complex infrastructure.
