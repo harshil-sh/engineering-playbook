@@ -106,3 +106,5 @@ AI-assisted engineering is successful when the team ships faster while preservin
 - [Production Readiness Checklist](production-readiness-checklist.md) for release and operational validation.
 - [Architecture Decision Framework](architecture-decision-framework.md) for evaluating technical trade-offs.
 - [Code Review Guidelines](code-review-guidelines.md) for collaborative quality gates.
+- [Agentic Development](agentic-development.md) for using coding agents within controlled delivery workflows.
+- [Developer Productivity](developer-productivity.md) for measuring AI assistance against real delivery outcomes.

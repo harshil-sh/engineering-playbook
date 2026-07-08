@@ -30,7 +30,7 @@ Transform the Engineering Playbook into a portfolio asset demonstrating senior e
 ## Phase 5 - Polish
 - [x] Improve navigation and information architecture
 - [x] Add Mermaid architecture diagrams
-- [ ] Add search optimisation and cross-links
+- [x] Add search optimisation and cross-links
 - [ ] Add distributed systems diagrams
 - [ ] Add contribution guidance
 - [ ] Final consistency review
