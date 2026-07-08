@@ -25,7 +25,7 @@ Transform the Engineering Playbook into a portfolio asset demonstrating senior e
 - [x] Create docs/case-studies.md
 - [x] Create docs/architecture-decision-records.md
 - [x] Create docs/mentoring.md
-- [ ] Create docs/interview-preparation.md
+- [x] Create docs/interview-preparation.md
 
 ## Phase 5 - Polish
 - [ ] Improve navigation and information architecture
