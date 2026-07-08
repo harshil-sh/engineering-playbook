@@ -13,6 +13,7 @@ nav:
   - Software Craftsmanship: software-craftsmanship.md
   - AI-Assisted Engineering: ai-assisted-engineering.md
   - Agentic Development: agentic-development.md
+  - Developer Productivity: developer-productivity.md
   - SOLID Principles: solid-principles.md
   - System Design: system-design-patterns.md
   - Code Review: code-review-guidelines.md
@@ -74,7 +75,8 @@ theme:
 
 plugins:
   - search
-  - mermaid2
+  - mermaid2:
+      javascript: assets/mermaid.esm.min.mjs
 
 markdown_extensions:
   - admonition
