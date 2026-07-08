@@ -15,7 +15,8 @@ nav:
   - Agentic Development: agentic-development.md
   - Developer Productivity: developer-productivity.md
   - SOLID Principles: solid-principles.md
-  - System Design: system-design-patterns.md
+  - System Design: system-design.md
+  - System Design Patterns: system-design-patterns.md
   - Code Review: code-review-guidelines.md
   - Testing Strategy: testing-strategy.md
   - Python Best Practices: python-best-practices.md

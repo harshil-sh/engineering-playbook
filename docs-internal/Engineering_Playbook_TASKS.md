@@ -16,7 +16,7 @@ Transform the Engineering Playbook into a portfolio asset demonstrating senior e
 - [x] Create docs/developer-productivity.md
 
 ## Phase 3 - Technical Leadership
-- [ ] Create docs/system-design.md
+- [x] Create docs/system-design.md
 - [ ] Create docs/code-review-guide.md
 - [ ] Create docs/engineering-metrics.md
 - [ ] Create docs/incident-response.md
