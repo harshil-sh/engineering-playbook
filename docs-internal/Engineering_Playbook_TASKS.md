@@ -19,7 +19,7 @@ Transform the Engineering Playbook into a portfolio asset demonstrating senior e
 - [x] Create docs/system-design.md
 - [x] Create docs/code-review-guide.md
 - [x] Create docs/engineering-metrics.md
-- [ ] Create docs/incident-response.md
+- [x] Create docs/incident-response.md
 
 ## Phase 4 - Leadership Portfolio
 - [ ] Create docs/case-studies.md
