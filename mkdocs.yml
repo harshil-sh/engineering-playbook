@@ -19,6 +19,7 @@ nav:
   - System Design Patterns: system-design-patterns.md
   - Code Review Guide: code-review-guide.md
   - Engineering Metrics: engineering-metrics.md
+  - Incident Response: incident-response.md
   - Code Review Guidelines: code-review-guidelines.md
   - Testing Strategy: testing-strategy.md
   - Python Best Practices: python-best-practices.md
