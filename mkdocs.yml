@@ -7,26 +7,32 @@ repo_name: harshil-sh/engineering-playbook
 
 nav:
   - Home: index.md
-  - Engineering Principles: engineering-principles.md
-  - Architecture Decision Framework: architecture-decision-framework.md
-  - Production Readiness Checklist: production-readiness-checklist.md
-  - Software Craftsmanship: software-craftsmanship.md
-  - AI-Assisted Engineering: ai-assisted-engineering.md
-  - Agentic Development: agentic-development.md
-  - Developer Productivity: developer-productivity.md
-  - SOLID Principles: solid-principles.md
-  - System Design: system-design.md
-  - System Design Patterns: system-design-patterns.md
-  - Code Review Guide: code-review-guide.md
-  - Engineering Metrics: engineering-metrics.md
-  - Incident Response: incident-response.md
-  - Case Studies: case-studies.md
-  - Code Review Guidelines: code-review-guidelines.md
-  - Testing Strategy: testing-strategy.md
-  - Python Best Practices: python-best-practices.md
-  - ADRs: architecture-decision-records.md
-  - Mentoring: mentoring.md
-  - Interview Preparation: interview-preparation.md
+  - Foundations:
+      - Engineering Principles: engineering-principles.md
+      - Software Craftsmanship: software-craftsmanship.md
+      - SOLID Principles: solid-principles.md
+      - Testing Strategy: testing-strategy.md
+      - Python Best Practices: python-best-practices.md
+  - Architecture & Design:
+      - Architecture Decision Framework: architecture-decision-framework.md
+      - Architecture Decision Records: architecture-decision-records.md
+      - Production Readiness Checklist: production-readiness-checklist.md
+      - System Design: system-design.md
+      - System Design Patterns: system-design-patterns.md
+  - AI-First Engineering:
+      - AI-Assisted Engineering: ai-assisted-engineering.md
+      - Agentic Development: agentic-development.md
+      - Developer Productivity: developer-productivity.md
+  - Technical Leadership:
+      - Code Review Guide: code-review-guide.md
+      - Code Review Guidelines: code-review-guidelines.md
+      - Engineering Metrics: engineering-metrics.md
+      - Incident Response: incident-response.md
+      - Mentoring: mentoring.md
+      - Interview Preparation: interview-preparation.md
+  - Portfolio Evidence:
+      - Case Studies: case-studies.md
+      - About: about.md
   - Playbook:
       - Decision Frameworks:
           - Tech Stack Rubric: playbook/decision-frameworks/tech-stack-rubric.md
@@ -49,7 +55,6 @@ nav:
       - Quality:
           - Definition of Done: playbook/quality/definition-of-done.md
           - Testing Philosophy: playbook/quality/testing-philosophy.md
-  - About: about.md
 
 theme:
   name: material

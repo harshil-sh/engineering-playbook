@@ -28,7 +28,7 @@ Transform the Engineering Playbook into a portfolio asset demonstrating senior e
 - [x] Create docs/interview-preparation.md
 
 ## Phase 5 - Polish
-- [ ] Improve navigation and information architecture
+- [x] Improve navigation and information architecture
 - [ ] Add Mermaid architecture diagrams
 - [ ] Add search optimisation and cross-links
 - [ ] Add distributed systems diagrams
