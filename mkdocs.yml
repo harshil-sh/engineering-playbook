@@ -17,7 +17,8 @@ nav:
   - SOLID Principles: solid-principles.md
   - System Design: system-design.md
   - System Design Patterns: system-design-patterns.md
-  - Code Review: code-review-guidelines.md
+  - Code Review Guide: code-review-guide.md
+  - Code Review Guidelines: code-review-guidelines.md
   - Testing Strategy: testing-strategy.md
   - Python Best Practices: python-best-practices.md
   - ADRs: architecture-decision-records.md
